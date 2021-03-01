@@ -1,0 +1,20 @@
+body {
+    background-color: #2F3136;
+    color:white;
+}
+
+.title-section{
+    background-color: #202225;
+}
+.navigation-bar{
+    inline-size: auto;
+}
+.contains-text{
+    color:white;
+}
+.disabled{
+    color:lightgrey;
+}
+.title{
+    padding-left: 5pt;
+}
